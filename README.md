@@ -52,7 +52,7 @@ DirectX11で作成した個人制作アクションゲームです。
 
 ## プレイ動画
 
-- **動画URL**：`（https://drive.google.com/file/d/1gs8yNeGWohwgKBxLCpbTrdEyrof4vujw/view?usp=drive_link）`
+- **動画URL**：`https://drive.google.com/file/d/1gs8yNeGWohwgKBxLCpbTrdEyrof4vujw/view?usp=drive_link`
 
 
 ## 動作環境
