@@ -1,4 +1,4 @@
-# murayama_sakuhin
+# DirectX11　ゲーム作品
 
 DirectX11で作成した個人制作アクションゲームです。  
 重力方向を操作できる「重力ゾーン」を用いた高速移動アクションをテーマに開発しました。
@@ -39,26 +39,33 @@ DirectX11で作成した個人制作アクションゲームです。
 
 ## 実行方法
 
-> このリポジトリにはソースコードを掲載しています。  
+> このリポジトリはソース確認用の提出物です。  
 > 実行ファイルは以下からダウンロードしてください。
 
-- **実行ファイル（Google Drive）**：`（ここにURLを貼る）`
+- **実行ファイル（Google Drive）**：https://drive.google.com/file/d/1UQtBuZWM4l3UNVkE6pjgIagDKwHIWcwD/view?usp=drive_link
 
 ### 起動手順
 
 1. 実行ファイル一式（zip）をダウンロード
 2. 任意フォルダに解凍
-3. `xxx.exe` を起動  
-   （必要に応じて同梱DLL・データファイルが同階層にあることを確認）
+3. `GAME.exe` を起動
+
+## プレイ動画
+
+- **動画URL**：`（https://drive.google.com/file/d/1gs8yNeGWohwgKBxLCpbTrdEyrof4vujw/view?usp=drive_link）`
+
 
 ## 動作環境
 
-- OS：Windows 10 / 11
-- GPU：DirectX11対応GPU
-- その他：必要に応じて Visual C++ 再頒布可能パッケージ
+-OS：Windows 11
+-CPU：Intel Core i7-11800H
+-GPU：NVIDIA GeForce RTX 3050 Laptop GPU
+-メモリ：16GB
+
 
 ## 補足（就活提出向け）
 
-- 本リポジトリ：ソースコード確認用
+- 本リポジトリ：ソース確認用
 - 実行ファイル：上記Google Driveリンクから取得可能
+- プレイ動画：上記動画URLから確認可能
 - 担当範囲：**企画・設計・実装（個人制作）**
