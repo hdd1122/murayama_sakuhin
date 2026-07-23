@@ -42,7 +42,7 @@ DirectX11で作成した個人制作アクションゲームです。
 > このリポジトリはソース確認用の提出物です。  
 > 実行ファイルは以下からダウンロードしてください。
 
-- **実行ファイル（Google Drive）**：https://drive.google.com/file/d/1UQtBuZWM4l3UNVkE6pjgIagDKwHIWcwD/view?usp=drive_link
+- **実行ファイル**：https://github.com/hdd1122/murayama_sakuhin/releases/download/v1.0.0/game.zip
 
 ### 起動手順
 
@@ -66,6 +66,6 @@ DirectX11で作成した個人制作アクションゲームです。
 ## 補足（就活提出向け）
 
 - 本リポジトリ：ソース確認用
-- 実行ファイル：上記Google Driveリンクから取得可能
+- 実行ファイル：上記リンクから取得可能
 - プレイ動画：上記動画URLから確認可能
 - 担当範囲：**企画・設計・実装（個人制作）**
