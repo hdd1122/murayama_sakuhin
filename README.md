@@ -57,10 +57,10 @@ DirectX11で作成した個人制作アクションゲームです。
 
 ## 動作環境
 
--OS：Windows 11
--CPU：Intel Core i7-11800H
--GPU：NVIDIA GeForce RTX 3050 Laptop GPU
--メモリ：16GB
+- OS：Windows 11
+- CPU：Intel Core i7-11800H
+- GPU：NVIDIA GeForce RTX 3050 Laptop GPU
+- メモリ：16GB
 
 
 ## 補足（就活提出向け）
